@@ -8,3 +8,5 @@ amazing
 awesome
 beauty
 fine
+git
+github
