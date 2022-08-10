@@ -1,4 +1,7 @@
-bash
+#!/bin/bash
+gitgot
+docker
+new
 git
 github
 yeah
