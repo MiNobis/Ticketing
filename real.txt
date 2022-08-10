@@ -16,3 +16,4 @@ git
 github
 Shout out to the Lord
 adding a new line in bugfix
+We are adding this line from the GUI
